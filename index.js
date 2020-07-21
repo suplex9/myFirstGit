@@ -1,3 +1,4 @@
+
 console.log("Hello world")
 
 function addition(firstNumber, secondNumber){
@@ -5,3 +6,4 @@ function addition(firstNumber, secondNumber){
 }
 
 console.log(addition(5, 10));
+
